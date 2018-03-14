@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Integrantes/Bernardo/SCN_BernardoUITest.unity
+- path: Assets/Integrantes/Alejandro Armenta/CustomizationScene.unity
   isLoaded: 1
   isActive: 1
