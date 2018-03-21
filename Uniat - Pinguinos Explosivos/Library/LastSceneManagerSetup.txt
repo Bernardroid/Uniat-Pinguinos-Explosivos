@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Integrantes/Alejandro Armenta/CustomizationScene.unity
+- path: Assets/Integrantes/Ali/Scenes/SCN_Items_Tests.unity
   isLoaded: 1
   isActive: 1
